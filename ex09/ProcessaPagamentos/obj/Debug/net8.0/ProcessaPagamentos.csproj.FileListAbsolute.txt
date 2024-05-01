@@ -1,0 +1,14 @@
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex09\ProcessaPagamentos\bin\Debug\net8.0\ProcessaPagamentos.exe
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex09\ProcessaPagamentos\bin\Debug\net8.0\ProcessaPagamentos.deps.json
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex09\ProcessaPagamentos\bin\Debug\net8.0\ProcessaPagamentos.runtimeconfig.json
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex09\ProcessaPagamentos\bin\Debug\net8.0\ProcessaPagamentos.dll
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex09\ProcessaPagamentos\bin\Debug\net8.0\ProcessaPagamentos.pdb
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex09\ProcessaPagamentos\obj\Debug\net8.0\ProcessaPagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex09\ProcessaPagamentos\obj\Debug\net8.0\ProcessaPagamentos.AssemblyInfoInputs.cache
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex09\ProcessaPagamentos\obj\Debug\net8.0\ProcessaPagamentos.AssemblyInfo.cs
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex09\ProcessaPagamentos\obj\Debug\net8.0\ProcessaPagamentos.csproj.CoreCompileInputs.cache
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex09\ProcessaPagamentos\obj\Debug\net8.0\ProcessaPagamentos.dll
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex09\ProcessaPagamentos\obj\Debug\net8.0\refint\ProcessaPagamentos.dll
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex09\ProcessaPagamentos\obj\Debug\net8.0\ProcessaPagamentos.pdb
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex09\ProcessaPagamentos\obj\Debug\net8.0\ProcessaPagamentos.genruntimeconfig.cache
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex09\ProcessaPagamentos\obj\Debug\net8.0\ref\ProcessaPagamentos.dll

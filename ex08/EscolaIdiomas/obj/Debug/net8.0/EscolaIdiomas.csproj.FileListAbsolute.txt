@@ -1,0 +1,14 @@
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex08\EscolaIdiomas\bin\Debug\net8.0\EscolaIdiomas.exe
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex08\EscolaIdiomas\bin\Debug\net8.0\EscolaIdiomas.deps.json
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex08\EscolaIdiomas\bin\Debug\net8.0\EscolaIdiomas.runtimeconfig.json
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex08\EscolaIdiomas\bin\Debug\net8.0\EscolaIdiomas.dll
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex08\EscolaIdiomas\bin\Debug\net8.0\EscolaIdiomas.pdb
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex08\EscolaIdiomas\obj\Debug\net8.0\EscolaIdiomas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex08\EscolaIdiomas\obj\Debug\net8.0\EscolaIdiomas.AssemblyInfoInputs.cache
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex08\EscolaIdiomas\obj\Debug\net8.0\EscolaIdiomas.AssemblyInfo.cs
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex08\EscolaIdiomas\obj\Debug\net8.0\EscolaIdiomas.csproj.CoreCompileInputs.cache
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex08\EscolaIdiomas\obj\Debug\net8.0\EscolaIdiomas.dll
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex08\EscolaIdiomas\obj\Debug\net8.0\refint\EscolaIdiomas.dll
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex08\EscolaIdiomas\obj\Debug\net8.0\EscolaIdiomas.pdb
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex08\EscolaIdiomas\obj\Debug\net8.0\EscolaIdiomas.genruntimeconfig.cache
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex08\EscolaIdiomas\obj\Debug\net8.0\ref\EscolaIdiomas.dll

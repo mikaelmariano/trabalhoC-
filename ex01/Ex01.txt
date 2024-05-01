@@ -1,0 +1,25 @@
+1.	Explique o que é herança em orientação a objetos e como ela é implementada em C#. Dê um exemplo prático de como a herança pode ser utilizada em um sistema de gerenciamento de funcionários.
+
+Herança é um conceito que permite uma classe herde atributos e métodos de outra classe, o que faz com que seja possível a reutilização de código. Ela é implementada através do uso de : que é colocada em frente no nome da classe filha juntamente com o nome da classe mae que é de onde ela é herdeira.
+
+class Funcionarios
+{
+	public int Id {get; set;}
+	public string Nome {get; set;}
+	
+	public void DetalhesFuncionarios()
+	{
+		Console.WriteLine($"Id: {Id}, Nome: {Nome}");
+	}
+}
+
+class LocalTrabalho : Funcionarios
+{
+	public string Filial {get; set;}
+	
+	public void MostrarDetalhesCompleto()
+	{
+		DetalhesFuncionarios();
+		Console.WriteLine($"Filial : {Filial}")
+	}
+}

@@ -1,0 +1,14 @@
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex07\ContaBancaria\bin\Debug\net8.0\ContaBancaria.exe
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex07\ContaBancaria\bin\Debug\net8.0\ContaBancaria.deps.json
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex07\ContaBancaria\bin\Debug\net8.0\ContaBancaria.runtimeconfig.json
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex07\ContaBancaria\bin\Debug\net8.0\ContaBancaria.dll
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex07\ContaBancaria\bin\Debug\net8.0\ContaBancaria.pdb
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex07\ContaBancaria\obj\Debug\net8.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex07\ContaBancaria\obj\Debug\net8.0\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex07\ContaBancaria\obj\Debug\net8.0\ContaBancaria.AssemblyInfo.cs
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex07\ContaBancaria\obj\Debug\net8.0\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex07\ContaBancaria\obj\Debug\net8.0\ContaBancaria.dll
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex07\ContaBancaria\obj\Debug\net8.0\refint\ContaBancaria.dll
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex07\ContaBancaria\obj\Debug\net8.0\ContaBancaria.pdb
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex07\ContaBancaria\obj\Debug\net8.0\ContaBancaria.genruntimeconfig.cache
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex07\ContaBancaria\obj\Debug\net8.0\ref\ContaBancaria.dll

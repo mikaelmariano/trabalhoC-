@@ -1,0 +1,14 @@
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex05\Locadora\obj\Debug\net8.0\Locadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex05\Locadora\obj\Debug\net8.0\Locadora.AssemblyInfoInputs.cache
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex05\Locadora\obj\Debug\net8.0\Locadora.AssemblyInfo.cs
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex05\Locadora\obj\Debug\net8.0\Locadora.csproj.CoreCompileInputs.cache
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex05\Locadora\bin\Debug\net8.0\Locadora.exe
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex05\Locadora\bin\Debug\net8.0\Locadora.deps.json
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex05\Locadora\bin\Debug\net8.0\Locadora.runtimeconfig.json
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex05\Locadora\bin\Debug\net8.0\Locadora.dll
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex05\Locadora\bin\Debug\net8.0\Locadora.pdb
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex05\Locadora\obj\Debug\net8.0\Locadora.dll
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex05\Locadora\obj\Debug\net8.0\refint\Locadora.dll
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex05\Locadora\obj\Debug\net8.0\Locadora.pdb
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex05\Locadora\obj\Debug\net8.0\Locadora.genruntimeconfig.cache
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex05\Locadora\obj\Debug\net8.0\ref\Locadora.dll

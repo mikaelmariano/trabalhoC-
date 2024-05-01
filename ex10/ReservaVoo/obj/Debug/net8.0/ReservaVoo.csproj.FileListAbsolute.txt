@@ -1,0 +1,14 @@
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex10\ReservaVoo\bin\Debug\net8.0\ReservaVoo.exe
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex10\ReservaVoo\bin\Debug\net8.0\ReservaVoo.deps.json
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex10\ReservaVoo\bin\Debug\net8.0\ReservaVoo.runtimeconfig.json
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex10\ReservaVoo\bin\Debug\net8.0\ReservaVoo.dll
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex10\ReservaVoo\bin\Debug\net8.0\ReservaVoo.pdb
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex10\ReservaVoo\obj\Debug\net8.0\ReservaVoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex10\ReservaVoo\obj\Debug\net8.0\ReservaVoo.AssemblyInfoInputs.cache
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex10\ReservaVoo\obj\Debug\net8.0\ReservaVoo.AssemblyInfo.cs
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex10\ReservaVoo\obj\Debug\net8.0\ReservaVoo.csproj.CoreCompileInputs.cache
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex10\ReservaVoo\obj\Debug\net8.0\ReservaVoo.dll
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex10\ReservaVoo\obj\Debug\net8.0\refint\ReservaVoo.dll
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex10\ReservaVoo\obj\Debug\net8.0\ReservaVoo.pdb
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex10\ReservaVoo\obj\Debug\net8.0\ReservaVoo.genruntimeconfig.cache
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex10\ReservaVoo\obj\Debug\net8.0\ref\ReservaVoo.dll

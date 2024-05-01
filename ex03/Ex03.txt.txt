@@ -1,0 +1,53 @@
+
+3.	Diferencie sobrecarga e sobreposição (ou sobrescrita) e forneça exemplos de cada um em C#.
+
+Sobrecarga é quando ocorre quando varios metodos tem o mesmo nome, mas com logicas diferentes estao dento da mesma classe ou em classe diferente, já sobreposição é quando uma classe que é herdeira de uma classe mae faz a redefinicao de um metodo da classe mae sendo que é usado a palavara override para fazer a sobrescrita.
+
+
+exemplo de sobrecarga
+Aqui há varios metodos para fazer a subtracao sendo que o compilador utilizara o melhor com base nos tipos e parametros inseridos durante a execucao.
+
+public class Calcudadora
+{
+	public int Subtrair( int a , int b)
+	{
+		return a - b;
+	}
+	
+	public int Subtrair(int a, int b, int c)
+	{
+		return a - b - c;
+	}
+	
+	public double Subtrair(double a, double b)
+	{
+		return a - b;
+	}
+}
+
+exemplo de sobrescrita
+neste caso um exemplo basico de mensagem de login, onde quando um usuario normal faz login aparece uma menagem de bem vindo usuario, e quando um moderador ou administrador faz login a mensagem se adapta com o perfil do usuario.
+
+public class Usuario
+{
+	public virtual void MensagemLogin()
+	{
+		Console.WriteLine("Bem vindo Usuario.");
+	}
+}
+
+public class Administrador : Usuario
+{
+	public override void MensagemLogin()
+	{
+		Console.WriteLine("Bem vindo Administrador.");
+	}
+}
+
+public class Moderador : Usuario
+{
+	public override void MensagemLogin()
+	{
+		Console.WriteLine("Bem vindo Moderador.");
+	}
+}

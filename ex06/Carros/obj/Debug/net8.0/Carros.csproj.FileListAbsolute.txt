@@ -1,0 +1,14 @@
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex06\Carros\bin\Debug\net8.0\Carros.exe
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex06\Carros\bin\Debug\net8.0\Carros.deps.json
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex06\Carros\bin\Debug\net8.0\Carros.runtimeconfig.json
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex06\Carros\bin\Debug\net8.0\Carros.dll
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex06\Carros\bin\Debug\net8.0\Carros.pdb
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex06\Carros\obj\Debug\net8.0\Carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex06\Carros\obj\Debug\net8.0\Carros.AssemblyInfoInputs.cache
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex06\Carros\obj\Debug\net8.0\Carros.AssemblyInfo.cs
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex06\Carros\obj\Debug\net8.0\Carros.csproj.CoreCompileInputs.cache
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex06\Carros\obj\Debug\net8.0\Carros.dll
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex06\Carros\obj\Debug\net8.0\refint\Carros.dll
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex06\Carros\obj\Debug\net8.0\Carros.pdb
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex06\Carros\obj\Debug\net8.0\Carros.genruntimeconfig.cache
+C:\Users\mikae\OneDrive\Documentos\projetos-c#\ex06\Carros\obj\Debug\net8.0\ref\Carros.dll
